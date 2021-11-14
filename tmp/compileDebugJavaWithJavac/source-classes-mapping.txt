@@ -1,0 +1,56 @@
+com/example/saathi/Fragments/ProcedureFragment.java
+ com.example.saathi.Fragments.ProcedureFragment
+com/example/saathi/databinding/SampleSchemeLayoutBinding.java
+ com.example.saathi.databinding.SampleSchemeLayoutBinding
+com/example/saathi/Adapters/FragmentAdapter.java
+ com.example.saathi.Adapters.FragmentAdapter
+com/example/saathi/BuildConfig.java
+ com.example.saathi.BuildConfig
+com/example/saathi/Fragments/VideoFragment.java
+ com.example.saathi.Fragments.VideoFragment
+ com.example.saathi.Fragments.VideoFragment$1
+com/example/saathi/Fragments/SchemesFragment.java
+ com.example.saathi.Fragments.SchemesFragment
+com/example/saathi/databinding/FragmentVideoBinding.java
+ com.example.saathi.databinding.FragmentVideoBinding
+com/example/saathi/Models/ContentDetails.java
+ com.example.saathi.Models.ContentDetails
+com/example/saathi/databinding/FragmentProcedureBinding.java
+ com.example.saathi.databinding.FragmentProcedureBinding
+com/example/saathi/Fragments/ConnectFragment.java
+ com.example.saathi.Fragments.ConnectFragment
+com/example/saathi/databinding/FragmentSchemesBinding.java
+ com.example.saathi.databinding.FragmentSchemesBinding
+com/example/saathi/databinding/ActivityScrollingBinding.java
+ com.example.saathi.databinding.ActivityScrollingBinding
+com/example/saathi/databinding/ActivityMainBinding.java
+ com.example.saathi.databinding.ActivityMainBinding
+com/example/saathi/Adapters/RecyclerAdapter.java
+ com.example.saathi.Adapters.RecyclerAdapter
+ com.example.saathi.Adapters.RecyclerAdapter$1
+ com.example.saathi.Adapters.RecyclerAdapter$viewHolder
+com/example/saathi/SignInActivity.java
+ com.example.saathi.SignInActivity
+ com.example.saathi.SignInActivity$1
+ com.example.saathi.SignInActivity$2
+ com.example.saathi.SignInActivity$3
+com/example/saathi/ScrollingActivity.java
+ com.example.saathi.ScrollingActivity
+ com.example.saathi.ScrollingActivity$1
+com/example/saathi/databinding/ContentScrollingBinding.java
+ com.example.saathi.databinding.ContentScrollingBinding
+com/example/saathi/SignUpActivity.java
+ com.example.saathi.SignUpActivity
+ com.example.saathi.SignUpActivity$1
+ com.example.saathi.SignUpActivity$2
+ com.example.saathi.SignUpActivity$3
+com/example/saathi/MainActivity.java
+ com.example.saathi.MainActivity
+com/example/saathi/databinding/FragmentConnectBinding.java
+ com.example.saathi.databinding.FragmentConnectBinding
+com/example/saathi/databinding/ActivitySignInBinding.java
+ com.example.saathi.databinding.ActivitySignInBinding
+com/example/saathi/databinding/ActivitySignUpBinding.java
+ com.example.saathi.databinding.ActivitySignUpBinding
+com/example/saathi/Models/UsersInfo.java
+ com.example.saathi.Models.UsersInfo
