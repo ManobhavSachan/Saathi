@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Saathi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_scrolling">GRIHA AADHAR SCHEME</string>
+    <string name="large_text">
+        The objective of the scheme is to address the problem of spiraling prices and to provide support to the housewives/homemakers from middle, lower middle and poor section of the society, to maintain a reasonable standard of living for their families. Under this scheme a monthly disbursement of an amount of Rs. 1200/- (upto 31/08/2016) and Rs. 1500/- (w.e.f. 01/09/2016) will be provided every month directly at the hands of the housewives/homemakers to achieve the objective.\n\n
+
+Approach:\n\n
+Directorate of Women and Child Development, Form Available at Rs. 50/-\n
+Eligibility and other conditions : -\n\n
+Any married woman above the age of 18 years, who fulfills all of the following conditions, is eligible to apply:\n\n
+(i) She should be a resident of Goa for the last fifteen years; and\n
+(ii) The gross income of the husband and wife, taken together should not exceed Rs.3, oo, ooo/- per annum.\n\n
+
+Note 1: The term ‘married woman’ includes a widow and a divorcee. In such cases the gross income of the beneficiary should not exceed Rs. 3,00,000/- per annum.\n
+        Note 2:The term ‘gross income’, means the income receivable by the beneficiary as salary, any sort of remuneration, any sort of earnings from profession, agriculture or business or any other income from any other sources; before computing any other amount accounted towards statutory, essential and other deductions required to be done from the gross income.
+Provided, that the beneficiary or the husband should not be in receipt of the benefit under the Dayanand Social Security Scheme (DSSS) of the Directorate of Social Welfare, Government of Goa. However, a widow having a child living shall be eligible for benefit under this scheme, even though she is a beneficiary of the DSSS till the child attains 18 years of age.\n\n
+
+Financial Assistance : -\n
+The beneficiary under the scheme shall be paid an amount of Rs. 1,500/- per month, as financial assistance.\n\n
+
+Application procedure : -\n
+The application shall be enclosed with the following documents:\n
+1. Self attested copy of Marriage certificate issued by the competent authority;\n
+2. Self attested copy of 15 years Residence Certificate issued by Taluka Mamlatdar;\n
+3. Proof of present residential address (includes Election Photo Identity Card –EPIC or any such document which establishes the present address.);
+4. Attested copy of Birth certificate alongwith one year residence certificate of the applicant and Birth certificate alongwith 15 years Residence certificate of her husband (in case of applicant who is originally native from outside the State and has married to a person of Goan origin)
+5. Attested copy of Aadhar card;\n
+6. Income Certificate issued by the Competent authority (i.e. Secretary, Village Panchayat/ Chief Officer, Municipal Council);\n
+7. Attested copy of savings bank account pass book with IFSC and MICR details (The bank account submitted should be preferably Aadhar linked for DBT (Direct Benefit Transfer) purpose.), and;\n
+8. Birth certificate of the child along with life certificates as in Annexure B (in case of widow who is a DSSS beneficiary).\n
+(a) The applications shall be scrutinized and sanction will be issued by the Director of Women and Child Development the Director of Women and Child Development shall establish facilitation centers in the taluka level offices for processing the application forms. A maximum number of upto 15000 applications shall be sanctioned in a calendar month.\n
+(b) The financial assistance of Rs.1500/- (Rupees one thousand five hundred only) shall be paid every month directly into the savings bank account of the eligible beneficiary by ABPS (Aadhar Bridge Payment System)/ ACH (Automated Credit House)/ NEFT (National Electronic Fund Transfer) subject to other conditions\n\n
+.
+Other conditions : -\n
+(a) The beneficiary shall submit a life certificate alongwith an income certificate issued by the Competent authority (i.e. Secretary, Village Panchayat/ Chief Officer, Municipal Council) every year, only in that respective month in which she was sanctioned the benefits under the Griha Aadhar Scheme in the prescribed form at such place identified by the department for the \n
+
+    </string>
+
+    <string name="ddssy">
+
+        DDSSY-Brief features for information\n
+(Deen Dayal Swasthya Seva Yojana)\n
+Scheme to Provide Universal Health Cover through Insurance for the Entire\n
+Resident Population of Goa\n\n
+
+Welfare of the people of the State is the endeavour of any Government and to
+achieve this end, the social security net requires further strengthening. As a result,
+the State Government announced “Deen Dayal Swasthya Seva Yojana” in its
+State Budget to provide a health cover through an insurance policy Scheme to the
+entire resident population of the State. Thus, health Insurance could be an
+innovative way of overcoming financial handicaps, improving access to quality
+medical care and providing financial protection against high medical expenses to
+the people of State of Goa.\n\n
+
+Scheme Benefits:\n\n
+• DDSSY would cover entire resident population of the State, residing in
+Goa for five years and more\n
+• Benefits under this scheme should be provided on a cashless basis to the
+Beneficiaries upto the limit of their annual coverage, as per details as under:\n
+• Cover of upto  2.5 lakhs per annum for a family of three or less
+members.\n
+
+
+    </string>
+
+    <string name="pmjay">
+
+        In order to provide clean cooking fuel to every poor households especially in rural areas, the Government had launched “Pradhan Mantri Ujjwala Yojana” on 01.05.2016 to provide deposit-free LPG connections to 5 crore women belonging to the Below Poverty Line (BPL) which has now been enhanced to 8 crore. Identification of prospective beneficiaries under PMUY has been expanded by including other categories in addition to SECC list. To achieve the enhanced target, the scheme will now also cover all SC/STs households beneficiaries of Pradhan Mantri Awas Yojana(PMAY) (Gramin), Antyoday Anna Yojana(AAY), Forest dwellers, Most Backward Classes (MBC), Tea and Ex-Tea Garden Tribes, people residing in Islands/ river islands having no LPG connection. The salient features of the PMUY Scheme are as under:-\n\n
+LPG Connection is released in the name of adult woman of the BPL Family, subject to the condition that no LPG connection exists in the name of any family member of the household.\n
+The Scheme covers the cash assistance upto Rs. 1600/- for providing new LPG connection and this cash assistance is provided by the Central Government.\n
+The customer bears the cost of Hot plate and purchase of first refill. The customers have option to take Hot plate on purchase of first refill or both on loan basis from zero interest rate and the same is recovered through subsidy received by the beneficiary. No recovery of loan is effecting for initial 6 refills.\n\n
+Ujjwala scheme link:\n
+https://www.pmuy.gov.in/
+
+
+
+    </string>
+
+    <string name="mgnrega">
+
+    </string>
+    <string name="swadesh">
+    https://swadesfoundation.org/
+Founded by Ronnie and Zarina Screwvala, the Swades Foundation operates with the single-minded focus of empowering rural India. Our vision is rural empowerment through best practices, modern technology and values.\n\n
+OUR VISION\n
+An empowered and poverty-free rural India where communities are capable of transforming their own lives.\n\n
+OUR MISSION\n
+To transform one million rural lives every five years through holistic development across Health, Education, Water and Sanitation and Economic Development by creating a scalable, replicable and community-centric model of sustainable development.\n\n
+OUR PHILOSOPHY\n
+At the Swades Foundation, we believe that the partnership of rural India with corporates, young urban India, the Government and other foundations is the key to create a permanent and irreversible change for good.\n\n
+OUR STRATEGY\n
+Our strategy is to Engage, Empower, Execute and Exit: To engage rural communities with corporates, young urban India, not-for-profit organizations and government to empower our communities to execute programs that transform their own lives.\n\n
+
+    </string>
+    <string name="sscw">
+Funded by Azim Premji Foundation – THE PHILANTHROPY – (since F/Y 2020-21) our Centre for Women, based in Community Centre, 2nd Floor, DDA Flats, Kalkaji, New Delhi,\n
+
+provides legal awareness/counselling/aid to victims of domestic violence/abuse, and their rehabilitation through vocational training in Computer Application, Beauty Culture and Cutting and Tailoring. The Centre is a catalyst for bringing about social, economic and legal empowerment of underprivileged women; encouraging micro-enterprises and entrepreneurship development through Self-Help Groups (SFG’s). Adult education and health are other areas of assistance.\n\n
+
+From 1st Sept 2010 to 31st July 2016, Shanti Sahyog successfully ran a Gender Resource Centre (GRC) Stree Shakti Suvidha Kendra, funded by Mission Convergence, Delhi Govt. It saw an annual footfall of about 7,500 women.  Since August 2016, our GRC has been renamed as Shanti Sahyog Center for Women. The following activities were conducted under GRC:\n\n
+Shanti Sahyog also runs a Centre for Women in Tughlakabad Village, which  offers vocational courses in Computer Application, Beauty Culture and Cutting and Tailoring. It also has a Counselling and Legal Aid segment, for victims of domestic violence/abuse, funded by Tibhovam Bhimji Zaveri, since F/Y 2019-20 under their flagship Poject PANKHI.\n\n
+Our Centre conducted a Nursing Assistants Training Program in F/Y 2016-17, funded by the Australian Government. 120 underprivileged women were trained to be employed as Nursing Assistants in families and hospitals.  Their  3 months training in theory by doctors from St Stephen’s Hospital, New Delhi, was followed by one month of hands-on experience in National Heart Institute, East of Kailash, New Delhi. The minimum educational qualification for selection was Std VIII, as reading skills are required to take temperature, blood pressure, read prescriptions etc. Minimum age required was16 years.\n\n
+
+    </string>
+    <string name="shuddhi">
+MISSION\n\n
+‘To help individuals and communities break the cycle of poverty that prevents them from reaching their full potential.’\n\n
+
+SHUDDHI™ is a registered NGO Non Governmental Organisation ​working together with Partners and ​Local Communities in India and Globally to improve Environment ​ and Human Well-Being.
+
+https://shuddhi.org/
+
+    </string>
+    <string name="helpage">
+Losing sight with age is common. But for many, it becomes the reason for losing their livelihood and ultimately their ability to live an independent life. Something similar was written in Jani’s fate. Jani is 67-year-old manual labourer, living in Palghar district of Maharashtra. Her sight started failing and she was lost in despair when she got to know that she had a cataract. She could not afford hospital bills for her surgery and hence she almost accepted that she would go blind and will lose her means of livelihood. Then she found out that her surgery will be done under  HelpAgeIndia‘s Restoration of Vision program for destitute elders. Today, Jani’s eyes twinkle as she gives her toothless smile. With her sight restored, she feels independent and happy.\n
+HelpAge conducts cataract eye surgeries in 21 states with medical support of credible and competent eye hospitals and organizations. Since 1980, under this program 45,000 cataract eye surgeries have been conducted annually. This has benefited more than nine lakh elderly till date This year, it aims to conduct close to 60,000 cataract surgeries across the country. Donate to help elderly get their vision back. Your donation will gift a vision to one of the 12 million elders in India suffering from cataract affected blindness and who cannot afford treatment.
+ Abhoy Mission\n\n
+Despite having seven daughters and a son, Bimla was spending her last days begging. Her old age and severe asthma did not allow her to work. When her children showed their back to her, 65-year-old had no choice but to beg for her daily meals. Her days changed for better when Abhoy Mission’s admitted her in Abhoy’s Community Based Rehabilitation (CBR) beneficiary list. She started receiving rations every month and also received medical help when required.
+Abhoy Mission started ‘Sponsor a Grandparent’ program in 2003. It aims to provide social
+
+    </string>
+    <string name="ashakiran">
+Nancharamma is 75-year-old and lives in Andhra Pradesh. Mother of two, she lives alone and works as a domestic help to take care of herself. She gets a pension of Rs.200 for which she has to spend Rs.40 on travel to get it. With limited money for her basic necessities, she often used to survive on leftover food. She then got enrolled in Asha Kiran’s program and her life changed for better. They provided Nancharamm with groceries, clothes, blanket and a mosquito net. She no longer has to sleep hungry and is now living a secured life.\n\n
+Asha Kiran runs an initiative to help elderly destitute women, below the poverty line, living alone in remote rural villages. It provides basic necessities to close to 200 elderly women . Asha Kiran also conducts monthly meetings apart from free medical camps and cultural programs, to improve their quality of life. Donate to help an elderly woman find hope in her last days.
+Scheme to Provide Universal Health Cover through Insurance for the Entire
+Resident Population of Goa
+
+    </string>
+
+    <string name="action_settings">Settings</string>
+</resources>

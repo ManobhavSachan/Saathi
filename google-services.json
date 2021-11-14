@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357124782817",
+    "project_id": "saathi-d0c22",
+    "storage_bucket": "saathi-d0c22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357124782817:android:c91b5069ee8d8c5664d5a0",
+        "android_client_info": {
+          "package_name": "com.example.saathi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357124782817-dgcksc8eht1aqsu9orf6veasta40prec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc0Vjm1YHwYNCOMyK5H3BDM4TX6h53AC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357124782817-dgcksc8eht1aqsu9orf6veasta40prec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
