@@ -1,5 +1,8 @@
 # Saathi
-App for helping people to get aware of the government schemes and NGO's. This was a hackathon project and was built for GirlScript Goa. My team came 3rd place for this wonderful project. 
+App for helping people to get aware of the government schemes and NGO's. This was a hackathon project and was built for GirlScript Goa. My team came 3rd place for this wonderful project.
+
+## Check it Out on Devpost
+https://devpost.com/software/saathi-6z9gyb.
 
 ## How to Use
 - Go to directory SRC.
